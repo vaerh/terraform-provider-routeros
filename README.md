@@ -1,4 +1,8 @@
-# Terraform Provider RouterOS
+# Warning
+This repository is switched to archive mode, since the main changes have been transferred to the [**parent repository**](https://github.com/GNewbury1/terraform-provider-routeros) and all current development will take place in it.
+
+
+## Terraform Provider RouterOS
 
 ![module testing workflow](https://github.com/vaerh/terraform-provider-routeros/actions/workflows/module_testing.yml/badge.svg?branch=main)
 
