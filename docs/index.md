@@ -4,9 +4,9 @@ description: |-
   Yet another Mikrotik provider for managing Mikrotik RouterOS devices.
 ---
 # ⚠️ Warning! ⚠️
-The GitHub repository for this provider is switched to archive mode, since the main changes have been transferred to the parent repository and all current development will take place in it. **Please use TF provider ["GNewbury1/routeros"](https://registry.terraform.io/providers/GNewbury1/routeros/latest).** 
+The GitHub repository for this provider is switched to archive mode, since the main changes have been transferred to the parent repository and all current development will take place in it. **Please use TF provider ["terraform-routeros/routeros"](https://registry.terraform.io/providers/terraform-routeros/routeros/latest).** 
 
-Backward compatibility for TF resources is [provided](https://github.com/GNewbury1/terraform-provider-routeros/commit/5ed67a7e78cbf167320e2092c7c276e7410041bd) (routeros_firewall_\*, routeros_bridge, routeros_vlan, etc.).
+Backward compatibility for TF resources is [provided](https://github.com/terraform-routeros/terraform-provider-routeros/commit/5ed67a7e78cbf167320e2092c7c276e7410041bd) (routeros_firewall_\*, routeros_bridge, routeros_vlan, etc.).
 
 
 ---
